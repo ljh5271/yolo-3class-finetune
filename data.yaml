@@ -1,0 +1,8 @@
+path: datasets/wild3
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: elephant
+  1: rhino
+  2: zebra
